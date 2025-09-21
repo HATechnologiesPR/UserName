@@ -26,7 +26,7 @@ Una tarjeta de presentación digital moderna y responsiva que permite a los prof
 ### 👤 Información Personal
 
 - **Nombre completo**: Título principal de la tarjeta
-- **Cita**: Cita de Colin Powell
+- **Slogan**: Slogan del negocio o cita personal.
 
 ### 📞 Botones de Contacto
 
@@ -75,8 +75,8 @@ BusinessCardPage/
 
 ### 🌐 GitHub Pages
 
-- **URL del sitio**: `https://usuario.github.io/repositorio/` (muestra `index.html`)
-- **Repositorio**: `https://github.com/usuario/repositorio` (muestra `README.md`)
+- **URL del sitio**: `https://HATechnologiesPR.github.io/ClientName/` (muestra `index.html`)
+- **Repositorio**: `https://github.com/HATechnologies/ClientName` (muestra `README.md`)
 - **Acceso móvil**: Compatible con dispositivos móviles mediante la URL del sitio
 
 ## 🚀 Personalización
@@ -109,7 +109,7 @@ Para adaptar la tarjeta a tu negocio, edita los siguientes elementos:
 
 - Activa GitHub Pages en Settings → Pages → Source: Deploy from a branch
 - Selecciona la rama `main` y carpeta `/ (root)`
-- El sitio estará disponible en: `https://tu-usuario.github.io/nombre-repositorio/`
+- El sitio estará disponible en: `https://HATechnologiesPR.github.io/ClientName/`
 
 ## 🌐 Créditos
 
