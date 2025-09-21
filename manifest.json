@@ -1,0 +1,21 @@
+{
+    "name": "UserName",
+    "short_name": "UserName",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#222222",
+    "description": "Business card page for UserName.",
+    "icons": [
+        {
+            "src": "images/HALogo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/HALogo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
